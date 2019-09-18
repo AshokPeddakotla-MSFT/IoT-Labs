@@ -8,4 +8,4 @@ The following quickstart templates deploy this resource type depends on your nee
 
 | Template                                                     | Deploy                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|  **Create Azure IoT Hub** | <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCHEEKATLAPRADEEP-MSFT%2FAnalyticsLabs%2Fmaster%2FCreateStorageAccount.json" target="_blank"> <img src="http://azuredeploy.net/deploybutton.png"/></a>|
+|  **Create Azure IoT Hub** | <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAshokPeddakotla-MSFT%2FIoT-Labs%2Fmaster%2Ftemplate.json%3Ftoken%3DAKS6JQ6JWQG56QGPDD5UIQK5QHLX6" target="_blank"> <img src="http://azuredeploy.net/deploybutton.png"/></a>|
